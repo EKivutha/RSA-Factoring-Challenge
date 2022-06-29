@@ -1,6 +1,6 @@
 RSA Factoring Challenge
 
-    By Julien Barbier
+    
 
 Background Context
 
